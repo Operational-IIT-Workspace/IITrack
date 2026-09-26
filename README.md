@@ -25,6 +25,6 @@ Contohnya, `[F03-T01]` bukan fitur baru yang terlihat di menu. Itu tugas teknis 
 
 [Papan Sprint 1 dan 2](https://github.com/orgs/Operational-IIT-Workspace/projects/17/views/8) memisahkan pekerjaan berdasarkan sprint yang direncanakan. [Tampilan empat area](https://github.com/orgs/Operational-IIT-Workspace/projects/17/views/9) memperlihatkan ringkasan antarmuka.
 
-Sprint 1 memuat pekerjaan yang sudah selesai, termasuk penetapan deliverabel dan revisi PRD di #136. UAT sedang berjalan pada Sprint 2 dan dilacak di #137. Rincian hasil Fase 2, seperti sistem berjalan, daftar periksa penerimaan, panduan, dan berita acara serah terima, ada di deskripsi #137. Status pada papan menunjukkan progress pekerjaan; penempatan pada sprint saja belum berarti pekerjaan selesai.
+Sprint 1 memuat pekerjaan yang sudah selesai, termasuk penetapan hasil kerja dan revisi PRD di #136. UAT sedang berjalan pada Sprint 2 dan dilacak di #137. Rincian hasil Fase 2, seperti sistem berjalan, daftar periksa penerimaan, panduan, dan berita acara serah terima, ada di deskripsi #137. Status pada papan menunjukkan progress pekerjaan; penempatan pada sprint saja belum berarti pekerjaan selesai.
 
 Item di luar scope tidak masuk Sprint 2. Kalau ada judul yang terasa samar, buka deskripsi issue dan lihat bagian tujuan, pekerjaan, serta bukti selesainya.
