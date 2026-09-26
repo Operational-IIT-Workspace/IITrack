@@ -28,9 +28,3 @@ Contohnya, `[F03-T01]` bukan fitur baru yang terlihat di menu. Itu tugas teknis 
 Sprint 1 memuat pekerjaan yang sudah selesai, termasuk penetapan hasil kerja dan revisi PRD di #136. UAT sedang berjalan pada Sprint 2 di #37. BAST ada di #35, dan User Guide ada di #110. Status pada papan menunjukkan progress pekerjaan; penempatan pada sprint saja belum berarti pekerjaan selesai.
 
 Item di luar scope tidak masuk Sprint 2. Kalau ada judul yang terasa samar, buka deskripsi issue dan lihat bagian Objective, pekerjaan, serta bukti selesainya.
-
-## Satu pekerjaan, satu tempat
-
-Gunakan issue yang sudah ada untuk pekerjaan yang sama. Kalau ada duplikasi, gabungkan detailnya ke issue utama lalu tutup dan arsipkan duplikatnya. Riwayatnya tetap tersedia lewat tautan.
-
-Judul cukup nama pekerjaan, misalnya **UAT**, **BAST**, atau **Pemeriksaan izin server**. Detail masuk ke **Objective**. Nama fitur seperti **Login**, **Dashboard**, **All Projects**, **Active Projects**, **Past Projects**, **Settings**, dan **Notifications** tetap memakai bahasa Inggris. Gunakan **progress** untuk pembaruan pekerjaan.
